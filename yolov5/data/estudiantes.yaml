@@ -1,0 +1,12 @@
+# Dataset de estudiantes — Minería Multimedia
+# Rutas locales (adaptadas desde Colab)
+
+train: /home/maria/Documents/Minieria multimedia/yolo_classroom-detection/yolo/estudiantes/images/train
+val: /home/maria/Documents/Minieria multimedia/yolo_classroom-detection/yolo/estudiantes/images/val
+test: /home/maria/Documents/Minieria multimedia/yolo_classroom-detection/yolo/estudiantes/images/test
+
+# Number of classes
+nc: 9
+
+# Class names
+names: ['Juanes','Andrés','Mateo','Maria','Roberto','Santiago Arias','Jhon','Santiago Mendoza','Miguel']
